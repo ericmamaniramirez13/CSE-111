@@ -1,0 +1,4 @@
+<built-in method now of type object at 0x00007FFBF6695650> 1.0 1.0 1.0 0.0
+Phone of buyer:  80140409051
+2021-04-27 20:35:49.038730 180.0 50.0 15.0 23971.0
+Phone of buyer:  no
